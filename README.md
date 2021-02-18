@@ -1,0 +1,2 @@
+# FizzBuzz
+Ignorera "MyLinq" & "Extensions"
